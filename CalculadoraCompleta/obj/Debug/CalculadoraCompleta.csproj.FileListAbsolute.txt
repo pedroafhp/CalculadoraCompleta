@@ -1,0 +1,14 @@
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraCompleta\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.exe.config
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraCompleta\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.exe
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraCompleta\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.pdb
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraCompleta\CalculadoraCompleta\bin\Debug\pt-BR\CalculadoraCompleta.resources.dll
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraCompleta\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csproj.AssemblyReference.cache
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraCompleta\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraCompleta\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.CalculadoraCompleta.resources
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraCompleta\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.Properties.Resources.resources
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraCompleta\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.CalculadoraCompleta.pt-BR.resources
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraCompleta\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csproj.GenerateResource.cache
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraCompleta\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraCompleta\CalculadoraCompleta\obj\Debug\pt-BR\CalculadoraCompleta.resources.dll
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraCompleta\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.exe
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraCompleta\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.pdb
