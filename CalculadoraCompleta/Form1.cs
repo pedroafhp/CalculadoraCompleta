@@ -28,61 +28,60 @@ namespace CalculadoraCompleta
                 }
                 else
                 {
-                    int num1 = Convert.ToInt32(NumeroUm.Text);
-                    int num2 = Convert.ToInt32(NumeroDois.Text);
-                    Resultado.Text = "" + modelo.Somar(num1, num2);
+                    double resolucao = Convert.ToDouble(Console.ReadLine());
+                    Resultado.Text = "" + modelo.Somar(resolucao);
                 }
             }
         }//Fim do Somar
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            Resultado.Text += "1";
         }
 
         private void NumeroDois_Click(object sender, EventArgs e)
         {
-
+            Resultado.Text += "2";
         }
 
         private void NumeroTres_Click(object sender, EventArgs e)
         {
-
+            Resultado.Text += "3";
         }
 
         private void NumeroQuatro_Click(object sender, EventArgs e)
         {
-
+            Resultado.Text += "4";
         }
 
         private void NumeroCinco_Click(object sender, EventArgs e)
         {
-
+            Resultado.Text += "5";
         }
 
         private void NumeroSeis_Click(object sender, EventArgs e)
         {
-
+            Resultado.Text += "6";
         }
 
         private void NumeroSete_Click(object sender, EventArgs e)
         {
-
+            Resultado.Text += "7";
         }
 
         private void NumeroOito_Click(object sender, EventArgs e)
         {
-
+            Resultado.Text += "8";
         }
 
         private void NumeroNove_Click(object sender, EventArgs e)
         {
-
+            Resultado.Text += "9";
         }
 
         private void NumeroZero_Click(object sender, EventArgs e)
         {
-
+            Resultado.Text += "0";
         }
 
         private void Subtrair_Click(object sender, EventArgs e)
@@ -93,9 +92,8 @@ namespace CalculadoraCompleta
             }
             else
             {
-                int num1 = Convert.ToInt32(NumeroUm.Text);
-                int num2 = Convert.ToInt32(NumeroDois.Text);
-                Resultado.Text = "" + modelo.Subtrair(num1, num2);
+                double resolucao = Convert.ToDouble(Console.ReadLine());
+                Resultado.Text = "" + modelo.Subtrair(resolucao);
             }
         }//Fim do Subtrair
 
@@ -107,9 +105,8 @@ namespace CalculadoraCompleta
             }
             else
             {
-                int num1 = Convert.ToInt32(NumeroUm.Text);
-                int num2 = Convert.ToInt32(NumeroDois.Text);
-                Resultado.Text = "" + modelo.Multiplicar(num1, num2);
+                double resolucao = Convert.ToDouble(Console.ReadLine());
+                Resultado.Text = "" + modelo.Multiplicar(resolucao);
             }
         }//Fim do Multiplicar
 
@@ -122,15 +119,14 @@ namespace CalculadoraCompleta
                 }
                 else
                 {
-                    int num1 = Convert.ToInt32(NumeroUm.Text);
-                    int num2 = Convert.ToInt32(NumeroDois.Text);
-                    if (modelo.Dividir(num1, num2) == -1)
+                    double resolucao = Convert.ToDouble(Console.ReadLine());
+                    if (modelo.Dividir(resolucao) == -1)
                     {
                         Resultado.Text = "Impossível Dividir";
                     }
                     else
                     {
-                        Resultado.Text = "" + modelo.Dividir(num1, num2);
+                        Resultado.Text = "" + modelo.Dividir(resolucao);
                     }
                 }
             }
@@ -149,8 +145,8 @@ namespace CalculadoraCompleta
             }
             else
             {
-                NumeroUm.Text = "";
-                NumeroDois.Text = "";
+                NumeroUm.Text += "";
+                NumeroDois.Text += "";
                 Resultado.Text = "";
             }
         }//Fim do Cancelar

@@ -12,29 +12,29 @@ namespace CalculadoraCompleta
         {
 
         }//Fim do Construtor
-        public int Somar(int num1, int num2)
+        public double Somar(double resolucao)
         {
-            return num1 + num2;
+            return resolucao + resolucao;
         }//Fim do Somar
-        public int Subtrair(int num1, int num2)
+        public double Subtrair(double resolucao)
         {
-            return num1 - num2;
+            return resolucao - resolucao;
         }//Fim do Subtrair
         
-        public int Multiplicar(int num1, int num2) 
+        public double Multiplicar(double resolucao) 
         {
-            return num1 * num2;
+            return resolucao * resolucao;
         }//Fim do Multiplicar
 
-        public double Dividir(int num1, int num2)
+        public double Dividir(double resolucao)
             {
-            if (num2 == 0)
+            if (resolucao == 0)
             {
                 return -1;
             }
             else
             {
-                return num1 / num2;
+                return resolucao / resolucao;
             }
         }//Fim do Dividir
 
